@@ -1,6 +1,6 @@
 #!/bin/sh
 #This script is designed to cycle the user between key languages
-. $HOME/src/dwm-scripts/statusBar/statusBarUpdate.sh
+. $HOME/src/dwm-scripts/statusBar.sh
 
 langFile="/tmp/lang_selected"
 
